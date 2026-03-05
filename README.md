@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Marlo Computer Services</title>
+    <title>Marlo Daven Computer Services</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CDN -->
@@ -73,7 +73,7 @@
 </section>
 
 <!-- About -->
-<section id="about" class="bg-light p-5">
+<section id="about" class="red-light p-5">
   <div class="container text-center">
     <h2>About Us</h2>
     <p>TechFix Computer Services provides reliable and affordable IT solutions for homes and businesses.</p>
